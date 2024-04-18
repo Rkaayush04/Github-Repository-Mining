@@ -1,10 +1,20 @@
 # Github-Repository-Mining
-GitHub mining involves extracting and analyzing data from GitHub,a popular platform for hosting and collaborating on code repositories
 
-Here are some approaches and methods for GitHub mining:
-- **Repository analysis:** Analyzing repositories can provide insights into project health,popularity and collaboration.You can extract data such as stars,forks,issues,pull requests and commit history to understand community involvement and code development patterns.This analysis can help identify active projects,popular libraries or frameworks, and emerging technologies.
-- **Developer activity analysis:** Tracking developer activities can help identify active contributors,coding patterns and collaborations.You can analyze metrics such as commits,contributions,pull requests and code reviews to assess individual or team involvement in projects.Understanding developer activity can provide insights into project dynamics and the expertise of contributors.
-- **Trend analysis:** Analyzing repositories and projects gaining popularity over time can help identify emerging technologies,programming languages or frameworks.By tracking trends,you can stay up-to-date with the latest advancements and align your development efforts accordingly.Monitoring the adoption and growth of specific repositories can also help in making informed technology choices.
-- **Issue analysis:** Issues and bug reports in repositories can be analyzed to understand common problems,prioritize development efforts and track issue resolution.By analyzing the patterns and trends in issues,you can identify recurring problems,assess response times and understand the overall quality of the software being developed.
-- **Collaboration analysis:** GitHub provides features for collaboration,such as pull requests and code reviews.Analyzing collaboration patterns can help identify efficient workflows,bottlenecks and areas for improvement in the development process.You can analyze metrics like response times,review comments and code merge rates to gain insights into collaboration dynamics.
-- **Social network analysis:** GitHub's social features,such as followers,followings and starred repositories,allow for analyzing the network of developers and their interactions.Social network analysis can help identify influential developers,communities and information flow within the platform.Tools like NetworkX or Gephi can assist in visualizing and analyzing the network structure.
+**How to access token:-**
+Profile settings-->(Left toolbar) Developer settings-->Personal access token-->Fill inforamtion-->Generate token-->Paste the token in Jupyter Notebook
+
+Fig:Output_1
+![image](https://github.com/Rkaayush04/Github-Repository-Mining/assets/152067559/e1b34f10-e5d5-4f05-89b1-0df714363a7b)
+
+Fig:Output_2
+![image](https://github.com/Rkaayush04/Github-Repository-Mining/assets/152067559/440abfd1-9ed1-44b2-a12d-13731d0855b2)
+
+Fig:Output_3
+![image](https://github.com/Rkaayush04/Github-Repository-Mining/assets/152067559/49a9cd31-ec6d-4631-8b3d-7fdf3d97ab37)
+
+Fig:Output_4
+![image](https://github.com/Rkaayush04/Github-Repository-Mining/assets/152067559/bf57ea15-7bdd-4868-a341-aa3b5bab62bf)
+
+
+**Conclusion**
+In this project we demonstrated how to programmatically interact with a GitHub repository using Python. This can be particularly useful for tasks such as automating repository management, fetching data for analysis, or monitoring project activity.
