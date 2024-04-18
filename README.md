@@ -1,5 +1,7 @@
 # Github-Repository-Mining
 
+GitHub mining is the process of extracting valuable information and insights from repositories hosted on GitHub,a popular platform for hosting and collaborating on code repositories.. This process involves analyzing various aspects of repositories, including code, issues, pull requests, README files, and other metadata.
+
 **How to access token:-**
 Profile settings-->(Left toolbar) Developer settings-->Personal access token-->Fill inforamtion-->Generate token-->Paste the token in Jupyter Notebook
 
