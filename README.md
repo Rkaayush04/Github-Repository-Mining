@@ -3,6 +3,8 @@
 **How to access token:-**
 Profile settings-->(Left toolbar) Developer settings-->Personal access token-->Fill inforamtion-->Generate token-->Paste the token in Jupyter Notebook
 
+**Outputs:-**
+
 ![image](https://github.com/Rkaayush04/Github-Repository-Mining/assets/152067559/e1b34f10-e5d5-4f05-89b1-0df714363a7b)
 
 Fig:Output_1
